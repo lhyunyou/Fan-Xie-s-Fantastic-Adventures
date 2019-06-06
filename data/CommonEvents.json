@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":201,"indent":0,"parameters":[0,15,8,11,0,0]},{"code":122,"indent":0,"parameters":[19,19,0,0,0]},{"code":121,"indent":0,"parameters":[31,31,1]},{"code":0,"indent":0,"parameters":[]}],"name":"刚哥任务重置","switchId":31,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

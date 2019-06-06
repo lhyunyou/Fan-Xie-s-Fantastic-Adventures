@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"学校","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1306.6666666666667},
+{"id":2,"expanded":true,"name":"学校 走廊1层","order":2,"parentId":1,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":3,"expanded":false,"name":"转移空间","order":15,"parentId":1,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":4,"expanded":false,"name":"男厕所","order":16,"parentId":1,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":5,"expanded":false,"name":"宿舍1楼","order":7,"parentId":1,"scrollX":1081.3333333333333,"scrollY":826.6666666666666},
+{"id":6,"expanded":true,"name":"宿舍2楼","order":8,"parentId":1,"scrollX":1081.3333333333333,"scrollY":640},
+{"id":7,"expanded":false,"name":"学校 教室101","order":3,"parentId":2,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":8,"expanded":false,"name":"保安室","order":14,"parentId":1,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":9,"expanded":false,"name":"学校 教室102","order":4,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"学校 教室103","order":5,"parentId":2,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":11,"expanded":false,"name":"女厕所","order":6,"parentId":2,"scrollX":1092,"scrollY":613.3333333333334},
+null,
+null,
+{"id":14,"expanded":false,"name":"试炼1","order":9,"parentId":6,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":15,"expanded":false,"name":"试炼2","order":10,"parentId":6,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":16,"expanded":false,"name":"试炼3","order":11,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":false,"name":"试炼4","order":12,"parentId":6,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":18,"expanded":false,"name":"宝库","order":13,"parentId":6,"scrollX":1092,"scrollY":613.3333333333334}
+]

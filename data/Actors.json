@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"谢凡战斗","characterIndex":0,"characterName":"谢凡","classId":1,"equips":[0,1,2,3,0],"faceIndex":0,"faceName":"谢凡","traits":[{"code":43,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"谢凡","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"屁股","nickname":"","note":"","profile":""}
+]
